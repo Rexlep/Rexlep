@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="[https://th.bing.com/th/id/R.87187d5c64d76872c672351b20c116dc?rik=o38urCyzykULKA&pid=ImgRaw&r=0](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)"  />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 ###
